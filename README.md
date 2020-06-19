@@ -13,7 +13,7 @@ ParserNG is written completely in (pure) Java and so is as cross-platform as Jav
 
 ## Adding ParserNG-Android to your project:
  
-
+Add it in your root build.gradle at the end of repositories:
 
 ```
 	allprojects {
