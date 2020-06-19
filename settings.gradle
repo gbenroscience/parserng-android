@@ -1,0 +1,3 @@
+rootProject.name='ParserNG-Android'
+include ':app'
+include ':parserng-android'
