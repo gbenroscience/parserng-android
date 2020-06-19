@@ -28,7 +28,8 @@ ParserNG is written completely in (pure) Java and so is as cross-platform as Jav
 Also add to your app's build.gradle file, under your dependencies, add:
 ```
 dependencies {
-	        implementation 'com.github.gbenroscience:EndlessAdapter:0.1.1'
+	        implementation 'com.github.gbenroscience:parserng-android:0.1.1'
+		
 	}
 ```
 
