@@ -95,7 +95,7 @@ The MathExpression constructor basically does all the operations of scanning and
 For example:
 
 <pre><code>
-MathExpression expression = new MathExpression("x^2+5*x+1");
+MathExpression expression = new MathExpression("x=0;x^2+5*x+1");
 
 for(int i=0; i<100000; i++){
 expression.setValue("x", String.valueOf(i) );
