@@ -1,6 +1,6 @@
 # ParserNG-Android
 
-ParserNG is a port of the powerful ParserNG library for Android project developers.
+parserng-android is a port of the powerful ParserNG library for Android project developers.
 
 It was created in 2009 by me, Gbemiro Jiboye and later used as a critical part of my final year project
 at the Department of Computer Science and Engineering, Obafemi Awolowo University,Ile-Ife, Osun State, Nigeria.
